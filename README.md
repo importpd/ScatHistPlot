@@ -2,19 +2,15 @@
 
 ## Table of contents
 1. [Introduction](#introduction)
-2. [Purpose](#purpose)
-3. [How to](#howto)
-4. [Dependencies](#dependencies)
+2. [How to](#howto)
+3. [Dependencies](#dependencies)
 
 ## Introduction <a id="introduction"></a>
 
-A combined scatter-histogram plot for displaying (large) volumes of 2D data.
-
-## Purpose
-
-A way to display closely spaced/overlapping 2D data. Looking only at a regular
-scatter plot in such case might hide potential density variations. Hence, combining the scatter
-with two histograms.
+A combined scatter-histogram plot for displaying (large) volumes of potentially
+overlapping/closely spaced 2D data.
+Looking only at a regular scatter plot in such case might hide potential density 
+variations. Hence, combining the scatter with two histograms.
 
 Extreme example:
 
