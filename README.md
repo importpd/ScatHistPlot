@@ -18,7 +18,7 @@ with two histograms.
 
 Extreme example:
 
-<img src="img_1.png" width=50% height=50%>
+<img src="img/img_1.png" width=50% height=50%>
 
 ## How to <a id="howto"></a>
 
@@ -30,7 +30,7 @@ scathistplot(x, y, xlabel='x', ylabel='y', histlabel='Frequency')
 ```
 The code produces the following plot:
 
-<img src="img.png" width=50% height=50%>
+<img src="img/img.png" width=50% height=50%>
 
 ## Dependencies <a id="dependencies"></a>
 
