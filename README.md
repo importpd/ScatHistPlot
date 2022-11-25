@@ -17,8 +17,8 @@ Extreme example:
 <img src="img/img_1.png" width=50% height=50%>
 
 ## How to <a id="howto"></a>
-
-Below is a code snippet of calling the function and generating output using example data and default axes labeling.
+Import the package into an existing .py file or call the function inside scathistplot.py.
+Below is a code snippet for generating output using example data and default axes labeling.
 ```
 x = np.random.normal(0, 1, 5000)
 y = np.random.normal(0, 1, 5000)
